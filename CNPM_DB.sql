@@ -1,4 +1,4 @@
-use DA_CNPM
+﻿use DA_CNPM
 create table UserTb
 (
 	userId int primary key,
@@ -51,3 +51,6 @@ create table ServiceOfPartnerTb
 	foreign key (partnerId) references PartnerTb(partnerId),
 )
 
+use DA_CNPM
+
+insert into UserTb values(1, 'thuanmapqn', '120300', 'Lê Xuân Thuân', '2000-03-12', 1, 'K64 Trân Đinh Tri', '0889709099', '21233434255')
