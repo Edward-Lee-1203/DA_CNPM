@@ -54,3 +54,8 @@ create table ServiceOfPartnerTb
 use DA_CNPM
 
 insert into UserTb values(1, 'thuanmapqn', '120300', 'Lê Xuân Thuân', '2000-03-12', 1, 'K64 Trân Đinh Tri', '0889709099', '21233434255')
+insert into UserTb values(2, 'thuanmapqn1', '120300', 'Lê Xuân Thu', '2000-03-12', 1, 'K64 Trân Đinh Tri', '0889709099', '21233434255')
+insert into UserTb values(3, 'thuanmapqn2', '120300', 'Nguyên Văn A', '2000-03-12', 1, 'K64 Trân Đinh Tri', '0889709099', '21233434255')
+insert into UserTb values(4, 'thuanmapqn3', '120300', 'Lê Văn B', '2000-03-12', 1, 'K64 Trân Đinh Tri', '0889709099', '21233434255')
+insert into UserTb values(5, 'thuanmapqn4', '120300', 'Lê Xuân C', '2000-03-12', 1, 'K64 Trân Đinh Tri', '0889709099', '21233434255')
+
